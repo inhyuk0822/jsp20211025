@@ -7,6 +7,7 @@ public class Bean06 {
 	private String writer;
 	private int price;
 	private String publisher;
+	private int stock;
 	
 	public Bean06(String title, String writer, int price) {
 		super();

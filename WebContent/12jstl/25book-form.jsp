@@ -21,6 +21,10 @@
 	<br />
 	<input type="number" name="price" placeholder="가격" value="0"/>
 	<br />
+	<input type="text" name="publisher" placeholder="저자">
+	<br />
+	<input type="number" name="stock" placeholder="재고" value="0"/>
+	<br />
 	<input type="submit" value="등록" />
 </form>
 
